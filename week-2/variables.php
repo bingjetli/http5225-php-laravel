@@ -24,6 +24,9 @@
 
   <?php 
     echo '<h1>'.$linkName.'</h1>';
+    echo '<h1>'.$linkURL.'</h1>';
+    echo '<h1>'.$linkImage.'</h1>';
+    echo '<h1>'.$linkDescription.'</h1>';
     echo '<pre>testing'.PHP_EOL.'testing</pre>';
   ?>
 </body>
